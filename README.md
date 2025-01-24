@@ -15,12 +15,11 @@ This project implements an RFID-based system using Arduino. It demonstrates how 
 - **Breadboard**
 - **LED**
   
-RDM6300 Pin       	Arduino Pin
-------------      -------------
-VCC	             5V (or 3.3V)
-GND	             GND
-TX	             D2 (For Arduino Uno)
-RX	             Do not use
+RDM6300 Pin       	
+VCC-> 5V (or 3.3V)
+GND-> GND
+TX-> D2 (For Arduino Uno)
+RX-> Do not use
 
 ## How to Use
 1. Clone this repository to your local machine:
